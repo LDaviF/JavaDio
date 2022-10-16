@@ -1,4 +1,4 @@
-package br.com.view;
+package edu.davi.firstWeek;
 
 import br.com.view.model.cat;
 
@@ -7,6 +7,7 @@ public class PrimeiroPrograma {
         cat gato = new cat();
 
         System.out.println(gato);
+
 
       /*  int a = 5;
         int b = 45;
