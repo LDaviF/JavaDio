@@ -1,6 +1,6 @@
 package edu.davi.firstWeek;
 
-import br.com.view.model.cat;
+import edu.davi.firstWeek.view.model.cat;
 
 public class PrimeiroPrograma {
     public static void main(String[] args) {

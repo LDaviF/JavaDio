@@ -1,4 +1,4 @@
-package br.com.view.calculadora;
+package edu.davi.firstWeek.view.calculadora;
 
 import java.util.Scanner;
 

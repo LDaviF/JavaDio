@@ -1,3 +1,5 @@
+package edu.davi.firstWeek;
+
 /* The first letter of a Class name needs to be Upper case, and the subsequence words too.
 The .java file always needs to have the same name as the main class, and  properly case-sensitive.
 In a generic way, a java code always starts like this: */

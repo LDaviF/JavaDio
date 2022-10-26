@@ -1,4 +1,4 @@
-package br.com.view.model;
+package edu.davi.firstWeek.view.model;
 
 import java.util.Objects;
 
